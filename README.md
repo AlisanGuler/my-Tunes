@@ -12,7 +12,7 @@ It's a website similar to iTunes
 
 # Features
 
-- You can enjot the music!
+- You can enjoy the music!
 - Also videos would be fun!
 - You also get too many gifts!
 
@@ -21,6 +21,7 @@ It's a website similar to iTunes
 - HTML
 - CSS
 - JS
+  
 # Requirements
 
 - Web browser (Google Chrome, Mozilla Firefox, etc.)
